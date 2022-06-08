@@ -5,7 +5,7 @@ description: Learn about configuring endpoints with Kestrel, the cross-platform 
 monikerRange: '>= aspnetcore-5.0'
 ms.author: riande
 ms.custom: mvc
-ms.date: 01/20/2022
+ms.date: 06/08/2022
 uid: fundamentals/servers/kestrel/endpoints
 ---
 
